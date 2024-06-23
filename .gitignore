@@ -1,8 +1,5 @@
 bin/
 obj/
-/packages/
-riderModule.iml
-/_ReSharper.Caches/
 Test/Token.json
 .vs
 .idea
