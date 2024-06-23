@@ -1,0 +1,37 @@
+namespace Discord093.Models;
+
+public enum Locale
+{
+	Indonesian,
+	Danish,
+	German,
+	EnglishUk,
+	EnglishUs,
+	Spanish,
+	SpanishLatam,
+	French,
+	Croatian,
+	Italian,
+	Lithuanian,
+	Hungarian,
+	Dutch,
+	Norwegian,
+	Polish,
+	PortugueseBrazilian,
+	RomanianRomania,
+	Finnish,
+	Swedish,
+	Vietnamese,
+	Turkish,
+	Czech,
+	Greek,
+	Bulgarian,
+	Russian,
+	Ukrainian,
+	Hindi,
+	Thai,
+	ChineseChina,
+	Japanese,
+	ChineseTaiwan,
+	Korean
+}
